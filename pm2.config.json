@@ -1,0 +1,13 @@
+{
+    "apps": [{ 
+      "name": "wppdscbot", 
+      "script": "npm", 
+      "args": "start", 
+      "max_memory_restart": "499M",
+      "instances": 1,
+      "exec_mode": "cluster",
+      "merge_logs": true,
+      "out_file": "./src/logs/output.log",
+      "error_file": "./src/logs/error.log"
+    }]
+}
