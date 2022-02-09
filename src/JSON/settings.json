@@ -1,0 +1,14 @@
+{
+    "whatsApp": {
+        "GROUP_ID": "group ID (you can find this on send 'getID' in a chat)",
+        "OWNER_NUMBER": "your phone number"
+    },
+    "discord": {
+        "BOT_TOKEN": "NzQ5ODIyNDY0MjAwMDE2MDUy.X0xklg.QBms7l4-WtFlB9oOGLYXLcoFx08",
+        "CHANNEL_ID": "911987610073833492",
+        "WEBHOOK": {
+            "ID": "616423264201474108",
+            "TOKEN": "_iMCvg8jaIgS6Fn3EPkvSJyaXWGAX9es6UEPUui2OWa68y-6Ruqiu8jHKqVHcfB9sFvW"
+        }
+    }
+}
